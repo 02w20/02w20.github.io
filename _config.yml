@@ -1,9 +1,9 @@
 # 标题
 title: 02w20's Blog
 # 描述
-description: 竹杖芒鞋轻胜马 谁怕 一蓑烟雨任平生
+description: 竹杖芒鞋轻胜马。谁怕？一蓑烟雨任平生。
 # 主题风格
-theme: jekyll-theme-primer
+theme: jekyll-theme-hacker
 # markdown增强功能
 markdown: kramdown
 
